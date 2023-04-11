@@ -1,0 +1,3 @@
+C:/Users/mkruk/CLionProjects/DZFLITA1/cmake-build-debug/CMakeFiles/DZFLITA1.dir
+C:/Users/mkruk/CLionProjects/DZFLITA1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mkruk/CLionProjects/DZFLITA1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
